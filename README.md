@@ -4,3 +4,7 @@ This app try to promove the competitive feeling of players in order to improve L
 
 Application Demo
 https://youtu.be/u_dMCq_56XA
+
+Previously Repositories
+https://github.com/ZetaGH/ClanBattles
+https://github.com/ZetaGH/ClanBattleApp
